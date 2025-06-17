@@ -19,6 +19,9 @@ Built with: PyTorch Transformers, Streamlit
 > NLP-powered resume analyzer that gives instant feedback  
 Built with: spaCy, Streamlit, PDF parsing
 
+### 🍔 [Hybrid Dish Recommendation System](https://github.com/BaraaHazzaa/dish-recommendation-engine)
+> A Hybrid Dish Recommendation System that uses collaborative filtering, and content-based filtering.
+Built with: Python, Flask, scikit-learn, APScheduler, pandas
 ---
 
 ## 🛠️ Skills & Tools
