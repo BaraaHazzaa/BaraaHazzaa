@@ -55,7 +55,7 @@ Built with: Python, Flask, scikit-learn, APScheduler, pandas
 
 ## 📬 Contact
 
-📧 baraa-hazzaa00@hotmail.com  
+📧 baraa-hazaa00@hotmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/baraa-hazzaa-560b0b35a) | 🌐 [Portfolio] (https://github.com/BaraaHazzaa)
 
 ---
