@@ -22,6 +22,11 @@ Built with: spaCy, Streamlit, PDF parsing
 ### 🍔 [Hybrid Dish Recommendation System](https://github.com/BaraaHazzaa/dish-recommendation-engine)
 > A Hybrid Dish Recommendation System that uses collaborative filtering, and content-based filtering.
 Built with: Python, Flask, scikit-learn, APScheduler, pandas
+
+
+### ✍️ [DocuMint - نظام المعاملات الإلكترونية](https://github.com/BaraaHazzaa/DocuMint)
+>DocuMint is a modern document management system, featuring complete RTL support for Arabic language. The system provides a comprehensive solution for managing electronic transactions, workflow automation, and digital signatures.
+Built with: React, Material-UI, and Vibe Coding
 ---
 
 ## 🛠️ Skills & Tools
