@@ -7,6 +7,12 @@
 
 ## 🚀 Projects & Live Demos
 
+###🔒 NEW! [Stable Hash Splitter] [(pip install stable-hash-splitter)]
+A scikit-learn compatible splitter for deterministic, ID-based train/test splits that prevent data leakage in machine learning workflows.
+Why it rocks: Ensures stable, reproducible splits across dataset versions using hashes of IDs (e.g., user/transaction IDs). No more accidental data leakage!
+Built with: Python, scikit-learn compatible API, CRC32 hashing (customizable).
+🔗 GitHub Repo | 📦 PyPI | 🚀 Quick Start: Check the README for examples with pandas, GridSearchCV, and more!
+
 ### 🧠 [Lecture Transcriber](https://github.com/BaraaHazzaa/lecture-transcriber)
 > Real-time lecture-to-structured-notes app using Whisper + spaCy  
 Built with: Python, Streamlit, PDFKit | 📄 Exports summaries to PDF
