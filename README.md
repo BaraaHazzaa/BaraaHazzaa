@@ -7,7 +7,7 @@
 
 ## 🚀 Projects & Live Demos
 
-### 🔒 NEW! [Stable Hash Splitter] (https://github.com/BaraaHazzaa/stable-hash-splitter) (pip install stable-hash-splitter)
+### 🔒 NEW! [Stable Hash Splitter](https://github.com/BaraaHazzaa/stable-hash-splitter) (pip install stable-hash-splitter)
 > a scikit-learn compatible splitter for deterministic, ID-based train/test splits that prevent data leakage in machine learning workflows.
 Built with: Python, scikit-learn compatible API, CRC32 hashing (customizable).
 🔗 GitHub Repo | 📦 PyPI | 🚀 Quick Start: Check the README!
