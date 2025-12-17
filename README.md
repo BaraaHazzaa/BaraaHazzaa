@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Baraa Hazzaa
 
-🎓 AI-focused Information Engineering graduate | 💡 Freelance AI Engineer  
+🎓 AI-focused Information Engineering graduate | 💡 Independant AI Consultant 
 🌍 Based in Syria | Open to relocation & Skilled Worker sponsorship  
 
 ---
