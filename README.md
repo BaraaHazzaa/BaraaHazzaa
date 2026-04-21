@@ -161,9 +161,11 @@ Software Engineering and Analysis
 
 ## Contact
 
-Email: baraa-hazaa00@hotmail.com
+Portfolio: https://baraa-hazzaa.base44.app
 
-LinkedIn: [baraa-hazzaa-560b0b35a](https://linkedin.com/in/baraa-hazzaa-560b0b35a)
+Email: baraa-hazzaa00@outlook.com
+
+LinkedIn: [baraa-hazzaa-560b0b35a](https://linkedin.com/in/baraa-hazzaa)
 
 GitHub: [BaraaHazzaa](https://github.com/BaraaHazzaa)
 
