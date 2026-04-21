@@ -130,13 +130,13 @@ Highlights:
 
 ## Skills
 
-Languages: Python, JavaScript (ES6+), SQL
+Languages: Python, JavaScript (ES6+), PHP, SQL, HTML, CSS
 
 AI and ML: PyTorch, TensorFlow, scikit-learn, NLP pipelines, recommender systems, voice AI workflows
 
-Frameworks and Tools: Streamlit, Flask, React, Material UI, Hugging Face, GitHub Actions, Docker
+Frameworks and Tools: Streamlit, Flask, React, Material UI, Hugging Face, GitHub Actions, Docker, n8n, ComfyUI, Weavy.AI
 
-Engineering Focus: Applied NLP, model-to-product delivery, reproducibility, MLOps fundamentals
+Engineering Focus: Applied AI, Applied NLP, model-to-product delivery, reproducibility, MLOps fundamentals
 
 ---
 
