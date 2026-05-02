@@ -107,14 +107,15 @@ Tech: Python, Streamlit, spaCy, PyPDF2
 ### Arabic NLP Pipeline
 [GitHub](https://github.com/BaraaHazzaa/arabic-nlp-pipeline)
 
-Early-stage modular pipeline scaffold for Arabic NLP workflows, organized around data loading, preprocessing, training, and testing.
+Production-oriented baseline for Arabic text classification with a command-line interface, secure data loading, Arabic-aware normalization, and model training with artifact and manifest persistence.
 
 Highlights:
-- Modular structure for future model experimentation
-- Centralized configuration for data, model, and logs
-- Foundation for Arabic text processing iterations
+- CLI for training and prediction workflows
+- Reproducibility manifest saved with model, tracking metrics and environment details
+- Environment-based configuration for flexible deployment
+- Robust data validation and clear error handling
 
-Tech: Python, modular pipeline architecture, pytest-oriented test layout
+Tech: Python, scikit-learn, joblib, CLI argument parsing
 
 ### Business Analysis Learning
 [GitHub](https://github.com/BaraaHazzaa/Business-Analysis-Learning)
@@ -165,7 +166,7 @@ Portfolio: https://baraa-hazzaa.base44.app
 
 Email: baraa-hazzaa00@outlook.com
 
-LinkedIn: [baraa-hazzaa-560b0b35a](https://linkedin.com/in/baraa-hazzaa)
+LinkedIn: [baraa-hazzaa](https://linkedin.com/in/baraa-hazzaa)
 
 GitHub: [BaraaHazzaa](https://github.com/BaraaHazzaa)
 
